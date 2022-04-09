@@ -1,2 +1,2 @@
 # QLytruongTHPT
-Quan ly trương THPT Marie
+Quản lý trườngTHPT Marie
